@@ -17,17 +17,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 
-## ⭐ GitHub Stats
 
-<table align="lift">
-  <tr>
-    <td>
-      <img height="180"
-        src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dimas&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dimas&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+
+
