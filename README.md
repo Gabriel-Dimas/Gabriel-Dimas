@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=1501&pause=2000&color=F7F7F7&background=E1E1E100&multiline=true&repeat=false&width=600&height=100&lines=Hello%2C+my+name+is+Gabriel+Angelo;Welcome+to+my+GitHub%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
-📘 Currently studying Information Systems at Anhagura.
+📘 Currently studying Information Systems Anhanguera.
 
 🔭 Learning something new every day!!
 
